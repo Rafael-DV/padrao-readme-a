@@ -96,7 +96,7 @@ cd meu-projeto
 ```bash
 
 +---img             // Contém as imagens do README
-+---temp            // Paste temp para gerar tree
++---temp            // Paste temp para gerar tree .
 ª   +---temp-1      // Paste temp para gerar tree
 ª   +---temp-2      // Paste temp para gerar tree
 +---temp copy       // Paste temp para gerar tree
